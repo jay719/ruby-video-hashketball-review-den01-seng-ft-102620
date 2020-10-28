@@ -128,3 +128,11 @@ def game_hash
 end
 
 # Write code here
+
+
+def big_shoe_rebounds (goat)
+  
+  games_hash.each |key,value|
+  
+  binding.pry
+  
